@@ -8,9 +8,9 @@ Du vill ta bort filen från staging utan att förlora dina ändringar.
 
 ## Din uppgift
 
-- Kontrollera vilka filer som finns i staging.
-- Ta bort den aktuella filen från staging.
-- Kontrollera att filen inte längre är staged.
-- Se till att ändringarna fortfarande finns kvar i arbetskatalogen.
+1. Kontrollera vilka filer som finns i staging.
+2. Ta bort den aktuella filen från staging.
+3. Kontrollera att filen inte längre är staged.
+4. Kontrollera att ändringarna fortfarande finns kvar i arbetskatalogen.
 
 > **Tips:** Att ta bort en fil från staging innebär inte att filens ändringar försvinner.
