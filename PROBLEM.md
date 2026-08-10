@@ -8,9 +8,9 @@ Endast en del av ändringarna ska ingå i nästa commit.
 
 ## Din uppgift
 
-- Kontrollera vilka ändringar som har gjorts.
-- Lägg endast till de ändringar som ska ingå i nästa commit.
-- Skapa en commit med de valda ändringarna.
-- Kontrollera att övriga ändringar fortfarande finns kvar i arbetskatalogen.
+1. Kontrollera vilka ändringar som har gjorts.
+2. Lägg endast till de ändringar som ska ingå i nästa commit.
+3. Skapa en commit med de valda ändringarna.
+4. Kontrollera att övriga ändringar fortfarande finns kvar i arbetskatalogen.
 
-> Tips: Git kan låta dig välja ändringar steg för steg.
+> **Tips:** Git kan låta dig välja ändringar steg för steg.
