@@ -1,4 +1,4 @@
-# Case 04 – Jag vill ångra ändringar i en eller flera filer
+# Case 04 – Jag vill ångra ändringar
 
 ## Scenario
 
@@ -8,9 +8,9 @@ Du har gjort ändringar i en eller flera filer, men inser att du inte vill behå
 
 ## Din uppgift
 
-- Gör en eller flera ändringar i projektet.
-- Kontrollera vilka filer som har ändrats.
-- Ångra ändringarna med hjälp av Git.
-- Kontrollera att filerna har återställts till den senaste committade versionen.
+1. Gör en eller flera ändringar i projektet.
+2. Kontrollera vilka filer som har ändrats.
+3. Ångra ändringarna med hjälp av Git.
+4. Kontrollera att filerna har återställts till den senaste committade versionen.
 
-> Tips: Kontrollera status före och efter att du löst uppgiften.
+> **Tips:** Kontrollera status före och efter att du löst uppgiften.
