@@ -11,4 +11,4 @@ Du har gjort flera commits i projektet, men inser att du vill återgå till en t
 3. Återställ projektet till den tidigare commiten.
 4. Kontrollera att projektet ser ut som det gjorde vid den valda commiten.
 
-> **Tips:** Börja med att titta på projektets historik.
+> **Tips:** Börja med att undersöka projektets commit-historik för att hitta den version du vill återgå till.
