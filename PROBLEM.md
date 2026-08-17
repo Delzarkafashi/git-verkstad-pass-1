@@ -4,7 +4,7 @@
 
 Du har gjort ändringar i en eller flera filer, men inser att du inte vill behålla dem.
 
-Ändringarna är inte committade.
+Ändringarna finns bara lokalt i arbetskatalogen och är ännu inte committade.
 
 ## Din uppgift
 
