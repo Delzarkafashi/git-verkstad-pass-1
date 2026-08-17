@@ -14,4 +14,4 @@ Endast en del av ändringarna ska ingå i nästa commit.
 4. Skapa en commit med de valda ändringarna.
 5. Kontrollera att övriga ändringar fortfarande finns kvar i arbetskatalogen.
 
-> **Tips:** Git kan låta dig välja ändringar steg för steg.
+> **Tips:** Git kan låta dig välja vilka delar av en fil som ska ingå i nästa commit, utan att övriga ändringar försvinner.
